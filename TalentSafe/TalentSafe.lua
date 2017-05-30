@@ -13,6 +13,8 @@ if (GetLocale() == "frFR") then
         LEARN = "Apprenez"
 elseif (GetLocale() == "deDE") then
         LEARN = "Erlernen"
+elseif (GetLocale() == "ruRU") then
+        LEARN = "Выучить"
 else
         LEARN = "Learn"
 end

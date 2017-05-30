@@ -2,6 +2,7 @@
 ## Version: 1.2
 ## Title: TalentSafe
 ## Notes: Confirm talent choices
+## Notes-ruRU: Подтверждение перед выбором таланта.
 ## Author: Bima
 ## DefaultState: enabled
 ## OptionalDeps: myAddOns
